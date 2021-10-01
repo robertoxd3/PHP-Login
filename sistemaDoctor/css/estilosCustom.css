@@ -1,0 +1,42 @@
+#main {
+    padding-right: 0;
+    padding-left: 0;
+    /*background-color: #282A35;*/
+}
+
+.btn-1 {
+    background-color: #AED6F1;
+    border-color: none;
+}
+
+.btn-1:hover {
+    background-color: #7cc;
+}
+
+.btn-2 {
+    background-color: #EDBB99;
+    border-color: none;
+}
+
+.btn-2:hover {
+    background-color: #D35400;
+}
+
+.btn-3 {
+    background-color: #CCD1D1;
+    border-color: none;
+}
+
+.btn-3:hover {
+    background-color: #616A6B;
+}
+
+.btn-4 {
+    background-color: #ABEBC6;
+    border-color: none;
+}
+
+.btn-4:hover {
+    background-color: #2ECC71;
+
+}
